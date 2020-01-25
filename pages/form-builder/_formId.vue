@@ -20,14 +20,12 @@
 </template>
 
 <script>
-import Card from "~/components/Card";
 import CategoriesList from "~/components/categories/CategoriesList";
 import QuestionList from "~/components/questions/QuestionList";
 
 export default {
   name: "HomePage",
   components: {
-    Card,
     CategoriesList,
     QuestionList
   },

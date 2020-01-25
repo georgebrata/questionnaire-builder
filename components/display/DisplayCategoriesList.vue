@@ -17,7 +17,7 @@
       </li>
     </ul>
     <div class="buttons mt4">
-      <b-button type="is-success" class="mt2" expanded @click="this.$emit('done')" v-if="this.answers.length > 0">
+      <b-button type="is-success" class="mt2" expanded @click="$emit('done')" v-if="this.answers.length > 0">
         🙌 I'm done
       </b-button>
       <b-button type="is-text" class="load-btn pl4 pr4" @click="openFormImporter">

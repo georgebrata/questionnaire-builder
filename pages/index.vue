@@ -13,14 +13,9 @@
 </template>
 
 <script>
-import Card from "~/components/Card";
 
 export default {
   layout: "homepage",
-  name: "HomePage",
-
-  components: {
-    Card
-  }
+  name: "HomePage"
 };
 </script>

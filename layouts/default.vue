@@ -21,7 +21,7 @@
         <div class="navbar-item">
           <div class="buttons">
             <a style="margin-top: 0;">
-              <n-link class="button is-primary" to="/answer/" prefetch>Load Questionaire</n-link>
+              <n-link class="button is-primary" to="/answer/" prefetch>Loady Questionaire</n-link>
             </a>
             <a class="button is-primary" style="margin-bottom: 0;">
               <n-link class="button" to="/form-builder/" prefetch>Create new Questionaire</n-link>
