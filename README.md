@@ -4,7 +4,7 @@
 
 ## Functionalities
 
-![Handling questions](http://www.giphy.com/gifs/MZ93zpjTPSkDftjvwS "Logo Title Text 1")
+![Handling questions](https://media.giphy.com/media/l1xcXOomi3e4AZ75Tb/source.gif)
 
 
 ## Build Setup
