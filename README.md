@@ -4,7 +4,7 @@
 
 ## Functionalities
 
-![Handling questions](https://media.giphy.com/media/l1xcXOomi3e4AZ75Tb/source.gif "test")
+![Handling questions](https://media.giphy.com/media/l1xcXOomi3e4AZ75Tb/source.gif)
 
 
 ## Build Setup
