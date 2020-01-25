@@ -1,10 +1,10 @@
-# questionnaire-builder
+# Questionnaire Builder
 
 > A simple VueJS app to build and render a custom questionnaire 📄
 
 ## Functionalities
 
-![Handling questions](https://media.giphy.com/media/l1xcXOomi3e4AZ75Tb/source.gif)
+![Handling questions](https://s5.gifyu.com/images/qb1.md.gif)
 
 
 ## Build Setup
