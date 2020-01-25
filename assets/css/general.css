@@ -1,0 +1,6 @@
+.item .action-btn {
+    opacity: 0;
+  }
+.item:hover .action-btn {
+    opacity: 1;
+}

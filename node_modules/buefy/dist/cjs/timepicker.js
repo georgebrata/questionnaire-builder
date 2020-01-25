@@ -1,0 +1,27 @@
+'use strict';
+
+Object.defineProperty(exports, '__esModule', { value: true });
+
+require('./chunk-f98e7e80.js');
+require('./helpers.js');
+require('./chunk-8806479f.js');
+require('./chunk-f7289f47.js');
+require('./chunk-035ea79a.js');
+var __chunk_5 = require('./chunk-13e039f5.js');
+require('./chunk-00f4bee7.js');
+require('./chunk-3969944e.js');
+require('./chunk-c5b5b708.js');
+require('./chunk-a60f20f8.js');
+require('./chunk-0e2a0143.js');
+require('./chunk-e925375d.js');
+var __chunk_16 = require('./chunk-358a04e6.js');
+
+var Plugin = {
+  install: function install(Vue) {
+    __chunk_5.registerComponent(Vue, __chunk_16.Timepicker);
+  }
+};
+__chunk_5.use(Plugin);
+
+exports.BTimepicker = __chunk_16.Timepicker;
+exports.default = Plugin;
