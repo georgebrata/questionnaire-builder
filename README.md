@@ -1,6 +1,11 @@
 # questionnaire-builder
 
-> Si simple VueJS app to build and render a custom questionnaire 📄
+> A simple VueJS app to build and render a custom questionnaire 📄
+
+## Functionalities
+
+![Handling questions](http://www.giphy.com/gifs/MZ93zpjTPSkDftjvwS "Logo Title Text 1")
+
 
 ## Build Setup
 
@@ -20,3 +25,5 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+
