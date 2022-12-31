@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.11.0",
     "nuxt-buefy": "^0.3.2",
     "vuedraggable": "^2.23.2"
   },
